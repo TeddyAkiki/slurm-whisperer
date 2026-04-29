@@ -1,0 +1,9 @@
+# User-filled cluster config (the .example version is tracked)
+scripts/config.yaml
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
